@@ -1,0 +1,18 @@
+{
+	"fontFamily": "SimHei",
+	"fontSize": 10,
+
+	"mongoHost": "192.168.1.101",
+	"mongoPort": 27017,
+	"mongoLogging": true,
+
+	"darkStyle": true,
+	"language": "chinese",
+
+	"logActive": true,
+	"logLevel": "debug",
+	"logConsole": true,
+	"logFile": true,
+
+	"tdPenalty": ["IF", "IH", "IC"]
+}
